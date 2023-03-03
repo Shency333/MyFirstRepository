@@ -1,6 +1,6 @@
 print("""Senior Class
 students
-school""") # comment for displaying in multiple lines
+school of district""") # comment for displaying in multiple lines
 
 
 #print("Senior Class
